@@ -1,0 +1,600 @@
+301
+00:13:36,079 --> 00:13:38,240
+the pl plus of the ecosystem probably
+
+302
+00:13:38,240 --> 00:13:40,920
+even more runs on some Fork of webkit
+
+303
+00:13:40,920 --> 00:13:43,240
+and the rest runs on Firefox which is
+
+304
+00:13:43,240 --> 00:13:46,240
+kind of valant trying to hold its own as
+
+305
+00:13:46,240 --> 00:13:49,360
+an alternative and uh is uh doing pretty
+
+306
+00:13:49,360 --> 00:13:51,959
+well it's one of the browsers that I use
+
+307
+00:13:51,959 --> 00:13:53,680
+but like you can see right like there
+
+308
+00:13:53,680 --> 00:13:56,399
+there there are natural pressures toward
+
+309
+00:13:56,399 --> 00:13:58,199
+um you know homogenization and toward
+
+310
+00:13:58,199 --> 00:14:00,720
+one implementation winning and ethereum
+
+311
+00:14:00,720 --> 00:14:03,279
+actually has managed to Buck this trend
+
+312
+00:14:03,279 --> 00:14:06,560
+so in ethereum um two years ago this
+
+313
+00:14:06,560 --> 00:14:09,720
+chart was worse and so ethereum's uh
+
+314
+00:14:09,720 --> 00:14:12,360
+decentralization is not only able to not
+
+315
+00:14:12,360 --> 00:14:14,959
+get worse but it's also able to actively
+
+316
+00:14:14,959 --> 00:14:17,240
+respond to problems that exist and over
+
+317
+00:14:17,240 --> 00:14:19,519
+time push to make them better if you
+
+318
+00:14:19,519 --> 00:14:22,399
+building an application that you needed
+
+319
+00:14:22,399 --> 00:14:25,040
+to exist 5 years from now 10 years from
+
+320
+00:14:25,040 --> 00:14:26,959
+now and that you want to be robust and
+
+321
+00:14:26,959 --> 00:14:28,600
+continue working five or 10 years from
+
+322
+00:14:28,600 --> 00:14:31,399
+now the what properties do you want the
+
+323
+00:14:31,399 --> 00:14:33,560
+chain you're building on to have I think
+
+324
+00:14:33,560 --> 00:14:35,560
+properties like these are exactly what
+
+325
+00:14:35,560 --> 00:14:37,440
+you would be looking
+
+326
+00:14:37,440 --> 00:14:41,360
+for with 32 eth or with less than 32 eth
+
+327
+00:14:41,360 --> 00:14:43,519
+if you join a pool there's more and more
+
+328
+00:14:43,519 --> 00:14:45,399
+really interesting pool options that are
+
+329
+00:14:45,399 --> 00:14:48,199
+appearing um there's even you know
+
+330
+00:14:48,199 --> 00:14:50,600
+things like oall Squad staking like the
+
+331
+00:14:50,600 --> 00:14:53,839
+there's options around
+
+332
+00:14:53,839 --> 00:14:56,639
+okay um there's options around like
+
+333
+00:14:56,639 --> 00:14:58,519
+basically creating smaller pools with
+
+334
+00:14:58,519 --> 00:14:59,839
+your friends there's different pools
+
+335
+00:14:59,839 --> 00:15:01,920
+that follow all kinds of different rules
+
+336
+00:15:01,920 --> 00:15:03,680
+and so there's lots of different ways
+
+337
+00:15:03,680 --> 00:15:06,079
+for you to become a Staker and if you're
+
+338
+00:15:06,079 --> 00:15:08,680
+a Staker then you become part of this
+
+339
+00:15:08,680 --> 00:15:10,639
+network of nodes that is securing the
+
+340
+00:15:10,639 --> 00:15:13,680
+ethereum blockchain so earn rewards
+
+341
+00:15:13,680 --> 00:15:16,079
+while securing ethereum so know I guess
+
+342
+00:15:16,079 --> 00:15:18,079
+uh this is know how the foundation
+
+343
+00:15:18,079 --> 00:15:19,839
+propaganda describes that it has a cute
+
+344
+00:15:19,839 --> 00:15:22,480
+elephant uh so good cheers for the
+
+345
+00:15:22,480 --> 00:15:25,519
+elephant uh so you know you two can join
+
+346
+00:15:25,519 --> 00:15:27,160
+the network and you two can help secure
+
+347
+00:15:27,160 --> 00:15:31,240
+it so also even if you're not a Staker
+
+348
+00:15:31,240 --> 00:15:33,720
+you can also run an ethereum node and
+
+349
+00:15:33,720 --> 00:15:36,240
+you could verify the chain
+
+350
+00:15:36,240 --> 00:15:39,480
+so this is uh a computer I mean I guess
+
+351
+00:15:39,480 --> 00:15:41,360
+these days nobody even has desktops that
+
+352
+00:15:41,360 --> 00:15:43,040
+look like this right it's like you
+
+353
+00:15:43,040 --> 00:15:45,000
+either have laptops or you have like
+
+354
+00:15:45,000 --> 00:15:47,839
+some crazy like GPU construction that's
+
+355
+00:15:47,839 --> 00:15:49,959
+like basically like looks almost like a
+
+356
+00:15:49,959 --> 00:15:52,120
+server right but like I don't know I
+
+357
+00:15:52,120 --> 00:15:54,759
+mean I just like shoved like a desktop
+
+358
+00:15:54,759 --> 00:15:57,199
+computer into stable diffusion 3.5 and
+
+359
+00:15:57,199 --> 00:15:58,959
+it like put this out so that's the
+
+360
+00:15:58,959 --> 00:16:02,240
+computer you get uh but uh you know you
+
+361
+00:16:02,240 --> 00:16:03,959
+can run an ethereum node on your
+
+362
+00:16:03,959 --> 00:16:06,000
+computer and you can verify the ethereum
+
+363
+00:16:06,000 --> 00:16:09,639
+chain right so this is really important
+
+364
+00:16:09,639 --> 00:16:11,560
+because if you have users that are
+
+365
+00:16:11,560 --> 00:16:15,160
+verifying the chain then even a majority
+
+366
+00:16:15,160 --> 00:16:18,079
+of the stakers acting together even two3
+
+367
+00:16:18,079 --> 00:16:21,079
+of the stakers acting together are not
+
+368
+00:16:21,079 --> 00:16:23,920
+able to change the rules on people
+
+369
+00:16:23,920 --> 00:16:26,279
+without everything breaking right
+
+370
+00:16:26,279 --> 00:16:28,600
+there's the ethereum rules they can only
+
+371
+00:16:28,600 --> 00:16:29,560
+change
+
+372
+00:16:29,560 --> 00:16:32,079
+through a hardk that is agreed upon
+
+373
+00:16:32,079 --> 00:16:33,880
+through wide Community consensus they
+
+374
+00:16:33,880 --> 00:16:36,480
+cannot be pushed through by a majority
+
+375
+00:16:36,480 --> 00:16:38,920
+or super majority of the stakers and
+
+376
+00:16:38,920 --> 00:16:40,399
+this is something that is really key and
+
+377
+00:16:40,399 --> 00:16:44,199
+really important and makes blockchains
+
+378
+00:16:44,199 --> 00:16:46,800
+very different from almost any other
+
+379
+00:16:46,800 --> 00:16:49,720
+kind of protocol and I think this is one
+
+380
+00:16:49,720 --> 00:16:51,240
+of those things that's really valuable
+
+381
+00:16:51,240 --> 00:16:53,560
+and really important to preserve I
+
+382
+00:16:53,560 --> 00:16:57,160
+think even among blockchain ecosystems
+
+383
+00:16:57,160 --> 00:17:00,040
+it's basically Bitcoin and eum that
+
+384
+00:17:00,040 --> 00:17:03,959
+really have a strong um culture of like
+
+385
+00:17:03,959 --> 00:17:05,760
+really at least among the large ones
+
+386
+00:17:05,760 --> 00:17:08,319
+right of of of actually trying to make
+
+387
+00:17:08,319 --> 00:17:10,120
+it possible and keep improving people's
+
+388
+00:17:10,120 --> 00:17:12,880
+ability to verify the chain and there's
+
+389
+00:17:12,880 --> 00:17:14,720
+a lot of protocol upgrades that are
+
+390
+00:17:14,720 --> 00:17:17,760
+coming that precisely have the goal of
+
+391
+00:17:17,760 --> 00:17:19,640
+making it even easier to verify the
+
+392
+00:17:19,640 --> 00:17:23,600
+chain so today um you have this uh
+
+393
+00:17:23,600 --> 00:17:27,079
+tomorrow uh you will uh be able be able
+
+394
+00:17:27,079 --> 00:17:30,840
+to one run node without requiring more
+
+395
+00:17:30,840 --> 00:17:33,480
+than a small amount of storage using
+
+396
+00:17:33,480 --> 00:17:36,960
+stateless clients so this is uh in my
+
+397
+00:17:36,960 --> 00:17:39,440
+big like series of six posts this is
+
+398
+00:17:39,440 --> 00:17:41,559
+going to be the one on the verge right
+
+399
+00:17:41,559 --> 00:17:43,360
+so stateless clients is a very important
+
+400
+00:17:43,360 --> 00:17:46,000
+section light clients uh so there's a
+
+401
+00:17:46,000 --> 00:17:48,120
+project called Helios which is doing a
+
+402
+00:17:48,120 --> 00:17:50,200
+form of light verification of the chain
+
+403
+00:17:50,200 --> 00:17:52,520
+so light verification is not perfect it
+
+404
+00:17:52,520 --> 00:17:55,080
+still follows the consensus and so if
+
+405
+00:17:55,080 --> 00:17:57,480
+51% of nodes change the rules you are
+
+406
+00:17:57,480 --> 00:17:59,799
+going to follow them but but it does
+
+407
+00:17:59,799 --> 00:18:02,000
+mean that if you're using a light client
+
+408
+00:18:02,000 --> 00:18:04,200
+that you do not have to trust an RPC
+
+409
+00:18:04,200 --> 00:18:06,600
+node to tell you any kind of information
+
+410
+00:18:06,600 --> 00:18:09,280
+about the chain and so Helios is uh
+
+411
+00:18:09,280 --> 00:18:11,320
+building a light client for ethereum
+
+412
+00:18:11,320 --> 00:18:13,600
+that does verification of the proof of
+
+413
+00:18:13,600 --> 00:18:17,320
+stake part of uh ethereum and uh also
+
+414
+00:18:17,320 --> 00:18:19,400
+actually starting to build light clients
+
+415
+00:18:19,400 --> 00:18:22,919
+for l2s um as well the longer term
+
+416
+00:18:22,919 --> 00:18:25,360
+future of course is we want to snark the
+
+417
+00:18:25,360 --> 00:18:27,200
+whole chain and once we snark the whole
+
+418
+00:18:27,200 --> 00:18:31,200
+chain you will be able to verify the
+
+419
+00:18:31,200 --> 00:18:34,120
+ethereum rules on extremely large or
+
+420
+00:18:34,120 --> 00:18:37,640
+extremely tiny Hardware so node writing
+
+421
+00:18:37,640 --> 00:18:39,840
+requirements and pushing those down is a
+
+422
+00:18:39,840 --> 00:18:41,720
+key part of the ethereum road map going
+
+423
+00:18:41,720 --> 00:18:45,120
+forward also uh staking with with less
+
+424
+00:18:45,120 --> 00:18:47,159
+eth this is one of those very active
+
+425
+00:18:47,159 --> 00:18:50,280
+research requirements right so 32 eth
+
+426
+00:18:50,280 --> 00:18:52,600
+it's still high and uh you know it's
+
+427
+00:18:52,600 --> 00:18:56,200
+even higher than it was two weeks ago
+
+428
+00:18:56,200 --> 00:18:59,820
+but my my okay
+
+429
+00:18:59,820 --> 00:19:02,880
+[Applause]
+
+430
+00:19:02,880 --> 00:19:05,000
+but you know my think like I would like
+
+431
+00:19:05,000 --> 00:19:07,600
+for people to be stakers with one e and
+
+432
+00:19:07,600 --> 00:19:10,039
+so I think there's a different ways to
+
+433
+00:19:10,039 --> 00:19:13,200
+do this there is orbit there is uh just
+
+434
+00:19:13,200 --> 00:19:14,880
+making a large number of aggregation
+
+435
+00:19:14,880 --> 00:19:16,440
+improvements but there's a lot of
+
+436
+00:19:16,440 --> 00:19:18,400
+protocol improvements that are coming
+
+437
+00:19:18,400 --> 00:19:20,240
+specifically in order to make staking
+
+438
+00:19:20,240 --> 00:19:22,280
+easier and more accessible and to make
+
+439
+00:19:22,280 --> 00:19:24,120
+running a node that verifies the chain
+
+440
+00:19:24,120 --> 00:19:27,360
+easier and more accessible so what runs
+
+441
+00:19:27,360 --> 00:19:30,400
+on the ethereum L1 so some high value
+
+442
+00:19:30,400 --> 00:19:32,880
+application use cases so a lot of high
+
+443
+00:19:32,880 --> 00:19:36,039
+value defi runs on L1 um ens is uh
+
+444
+00:19:36,039 --> 00:19:38,559
+currently on L1 though it's uh
+
+445
+00:19:38,559 --> 00:19:40,960
+increasingly doing doing more and more
+
+446
+00:19:40,960 --> 00:19:45,919
+with uh layer twos then uh a lot of
+
+447
+00:19:45,919 --> 00:19:50,000
+uh diff various applications um all kind
+
+448
+00:19:50,000 --> 00:19:51,720
+just all kinds of things in every
+
+449
+00:19:51,720 --> 00:19:53,960
+category uh people just hold assets on
+
+450
+00:19:53,960 --> 00:19:56,120
+layer one so lots of high value
+

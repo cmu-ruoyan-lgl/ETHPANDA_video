@@ -1,0 +1,600 @@
+451
+00:19:56,120 --> 00:19:59,679
+application use cases on layer one also
+
+452
+00:19:59,679 --> 00:20:01,840
+managing block rots and and state roots
+
+453
+00:20:01,840 --> 00:20:04,039
+and proof systems for layer twos layer
+
+454
+00:20:04,039 --> 00:20:06,679
+one is the thing that secures layer 2os
+
+455
+00:20:06,679 --> 00:20:09,799
+cross layer two operations um and layer
+
+456
+00:20:09,799 --> 00:20:13,280
+one needs to still be powerful enough to
+
+457
+00:20:13,280 --> 00:20:15,679
+handle cross um a lot of things
+
+458
+00:20:15,679 --> 00:20:18,039
+happening especially in the case where a
+
+459
+00:20:18,039 --> 00:20:20,960
+layer two fails the difference between a
+
+460
+00:20:20,960 --> 00:20:23,640
+layer two and an independent chain is
+
+461
+00:20:23,640 --> 00:20:25,880
+that even if your warer 2 gets 51%
+
+462
+00:20:25,880 --> 00:20:28,280
+attacked or 91% attacked or the team
+
+463
+00:20:28,280 --> 00:20:31,039
+shots down layer one is still stands
+
+464
+00:20:31,039 --> 00:20:33,120
+there to protect the users users are
+
+465
+00:20:33,120 --> 00:20:35,640
+able to prove their whole their assets
+
+466
+00:20:35,640 --> 00:20:37,080
+and their ownership and their state
+
+467
+00:20:37,080 --> 00:20:39,200
+inside of the layer two and migrated
+
+468
+00:20:39,200 --> 00:20:41,720
+down back down to layer one in order for
+
+469
+00:20:41,720 --> 00:20:43,919
+this to actually be possible layer one
+
+470
+00:20:43,919 --> 00:20:46,600
+needs to actually be powerful enough to
+
+471
+00:20:46,600 --> 00:20:49,480
+handle the load if a layer two actually
+
+472
+00:20:49,480 --> 00:20:51,640
+does fail recently there was a live
+
+473
+00:20:51,640 --> 00:20:55,480
+experiment of this uh so dyd DX V3 I
+
+474
+00:20:55,480 --> 00:20:59,120
+believe shut down recently and the uh L2
+
+475
+00:20:59,120 --> 00:21:01,679
+beat people actually wrote their own
+
+476
+00:21:01,679 --> 00:21:04,159
+implementation of escape hatch software
+
+477
+00:21:04,159 --> 00:21:06,240
+and so without any involvement from the
+
+478
+00:21:06,240 --> 00:21:10,279
+dydx team uh users are able to take any
+
+479
+00:21:10,279 --> 00:21:12,600
+assets that they have ins um inside of D
+
+480
+00:21:12,600 --> 00:21:15,360
+ydx V3 and bring it back down to the
+
+481
+00:21:15,360 --> 00:21:18,799
+ethereum L1
+
+482
+00:21:21,880 --> 00:21:26,799
+so layer twos are not just multi the
+
+483
+00:21:26,799 --> 00:21:30,840
+ability to Mo move your assets out of
+
+484
+00:21:30,840 --> 00:21:33,039
+the layer two and back to layer one if
+
+485
+00:21:33,039 --> 00:21:35,880
+the layer 2 fails without the layer two
+
+486
+00:21:35,880 --> 00:21:38,600
+teams involvement is not just Theory it
+
+487
+00:21:38,600 --> 00:21:40,640
+is
+
+488
+00:21:40,640 --> 00:21:43,320
+reality
+
+489
+00:21:43,320 --> 00:21:48,200
+so okay L1 runs some applications and L1
+
+490
+00:21:48,200 --> 00:21:51,360
+protects the l2s what do the l2s do l2s
+
+491
+00:21:51,360 --> 00:21:54,679
+provide speed and scale so on the left
+
+492
+00:21:54,679 --> 00:21:57,640
+here you have a chart of like basically
+
+493
+00:21:57,640 --> 00:22:00,039
+the same as the chart that Josh showed
+
+494
+00:22:00,039 --> 00:22:02,520
+earlier basically Layer Two fees and
+
+495
+00:22:02,520 --> 00:22:04,760
+this is just what they've done this year
+
+496
+00:22:04,760 --> 00:22:06,360
+so this year Layer Two fees have gone
+
+497
+00:22:06,360 --> 00:22:09,000
+down from about 50 cents to less than 1
+
+498
+00:22:09,000 --> 00:22:12,400
+cent so this is a massive change right
+
+499
+00:22:12,400 --> 00:22:13,679
+this basically means that for an
+
+500
+00:22:13,679 --> 00:22:16,320
+incredibly wide class of applications
+
+501
+00:22:16,320 --> 00:22:19,400
+ethereum has overnight gone from
+
+502
+00:22:19,400 --> 00:22:22,240
+being basically unaffordable to being
+
+503
+00:22:22,240 --> 00:22:26,330
+completely affordable so that's fees
+
+504
+00:22:26,330 --> 00:22:31,799
+[Applause]
+
+505
+00:22:31,799 --> 00:22:35,720
+now transaction inclusion times right so
+
+506
+00:22:35,720 --> 00:22:38,000
+who here remembers the experience of
+
+507
+00:22:38,000 --> 00:22:40,440
+sending a transaction and then having to
+
+508
+00:22:40,440 --> 00:22:42,640
+wait some arbitrary number of minutes
+
+509
+00:22:42,640 --> 00:22:45,080
+could be 10 could be 40 could be 90 for
+
+510
+00:22:45,080 --> 00:22:47,640
+the transaction to get
+
+511
+00:22:47,640 --> 00:22:49,880
+included who here remembers having this
+
+512
+00:22:49,880 --> 00:22:51,200
+experience in
+
+513
+00:22:51,200 --> 00:22:53,440
+ethereum who here remembers having this
+
+514
+00:22:53,440 --> 00:22:56,440
+experience in ethereum in the past 6
+
+515
+00:22:56,440 --> 00:22:59,720
+months so ethereum has improved
+
+516
+00:22:59,720 --> 00:23:03,159
+massively now this is actually a pretty
+
+517
+00:23:03,159 --> 00:23:04,960
+linear progression that we've had all
+
+518
+00:23:04,960 --> 00:23:07,000
+the way since the beginning right so
+
+519
+00:23:07,000 --> 00:23:10,000
+Bitcoin 10minute block times and uh
+
+520
+00:23:10,000 --> 00:23:13,080
+Bitcoin has uh this uh thing called A
+
+521
+00:23:13,080 --> 00:23:14,760
+Plus un distribution that of course
+
+522
+00:23:14,760 --> 00:23:17,120
+ethereum also had um had during the
+
+523
+00:23:17,120 --> 00:23:19,159
+proof of work era but then we decided we
+
+524
+00:23:19,159 --> 00:23:20,559
+don't like fish and so we switched to
+
+525
+00:23:20,559 --> 00:23:22,679
+proof of steak
+
+526
+00:23:22,679 --> 00:23:25,520
+so Bitcoin average walk time 10 minutes
+
+527
+00:23:25,520 --> 00:23:28,279
+often you have to wait up to 1 hour now
+
+528
+00:23:28,279 --> 00:23:31,320
+in in ethereum uh the average block time
+
+529
+00:23:31,320 --> 00:23:33,120
+is 12 seconds but then there's still
+
+530
+00:23:33,120 --> 00:23:35,240
+this like annoying phenomenon where if
+
+531
+00:23:35,240 --> 00:23:37,320
+you send a transaction and you get
+
+532
+00:23:37,320 --> 00:23:39,400
+unlucky with the gas price that you set
+
+533
+00:23:39,400 --> 00:23:40,679
+maybe you would have to wait like 10
+
+534
+00:23:40,679 --> 00:23:43,440
+minutes or 20 minutes accidentally EIP
+
+535
+00:23:43,440 --> 00:23:46,799
+1559 which came in 2021 basically solved
+
+536
+00:23:46,799 --> 00:23:48,159
+that and created a situation where
+
+537
+00:23:48,159 --> 00:23:50,279
+you're able to reliably send a
+
+538
+00:23:50,279 --> 00:23:52,240
+transaction and expect to see it
+
+539
+00:23:52,240 --> 00:23:54,799
+included usually within one block and
+
+540
+00:23:54,799 --> 00:23:57,159
+then the merge because of this
+
+541
+00:23:57,159 --> 00:23:59,200
+interesting Quirk of mathematics
+
+542
+00:23:59,200 --> 00:24:01,520
+even though the average time between
+
+543
+00:24:01,520 --> 00:24:03,960
+blocks reduced only from 13 seconds to
+
+544
+00:24:03,960 --> 00:24:06,559
+12 seconds the average time between you
+
+545
+00:24:06,559 --> 00:24:09,480
+sending a transaction and your and your
+
+546
+00:24:09,480 --> 00:24:11,520
+transaction getting included in a block
+
+547
+00:24:11,520 --> 00:24:13,400
+reduced from a little bit more than 13
+
+548
+00:24:13,400 --> 00:24:15,559
+seconds to a little bit more than six
+
+549
+00:24:15,559 --> 00:24:18,520
+seconds um so math problem figure out
+
+550
+00:24:18,520 --> 00:24:20,279
+why this is true it's actually a really
+
+551
+00:24:20,279 --> 00:24:23,640
+fun fact so post merge basically goes
+
+552
+00:24:23,640 --> 00:24:25,880
+down to like about 6 to 30 seconds and
+
+553
+00:24:25,880 --> 00:24:27,919
+then finally with layer twos you have
+
+554
+00:24:27,919 --> 00:24:29,200
+preon
+
+555
+00:24:29,200 --> 00:24:30,799
+and you have layer twos that are fast
+
+556
+00:24:30,799 --> 00:24:32,600
+enough to just confirm your transaction
+
+557
+00:24:32,600 --> 00:24:34,000
+within a couple hundred
+
+558
+00:24:34,000 --> 00:24:37,159
+milliseconds so layer twos provide speed
+
+559
+00:24:37,159 --> 00:24:41,200
+layer twos provide scale and the way
+
+560
+00:24:41,200 --> 00:24:43,880
+that you as a user see scale is you get
+
+561
+00:24:43,880 --> 00:24:46,159
+to be part of an application where lots
+
+562
+00:24:46,159 --> 00:24:48,279
+and lots of things are happening and at
+
+563
+00:24:48,279 --> 00:24:50,799
+the same time your transaction fees get
+
+564
+00:24:50,799 --> 00:24:53,360
+to continue to be
+
+565
+00:24:53,360 --> 00:24:56,840
+cheap so history of ethereum right so
+
+566
+00:24:56,840 --> 00:25:01,520
+November 2013 the white paper July 2015
+
+567
+00:25:01,520 --> 00:25:04,799
+the launch around 2018 that was the time
+
+568
+00:25:04,799 --> 00:25:06,840
+when ethereum settled on it's
+
+569
+00:25:06,840 --> 00:25:08,760
+approximate design for proof of stake
+
+570
+00:25:08,760 --> 00:25:10,919
+and data availability sampling so the
+
+571
+00:25:10,919 --> 00:25:12,840
+original papers and like documents for
+
+572
+00:25:12,840 --> 00:25:14,399
+data availability sampling and aaser
+
+573
+00:25:14,399 --> 00:25:18,320
+coding um I wrote those back in 2017 and
+
+574
+00:25:18,320 --> 00:25:21,320
+then we settled on uh the Casper the
+
+575
+00:25:21,320 --> 00:25:23,559
+Friendly finality Gadget also at the end
+
+576
+00:25:23,559 --> 00:25:24,520
+of
+
+577
+00:25:24,520 --> 00:25:27,080
+2017 actually if you really want and you
+
+578
+00:25:27,080 --> 00:25:29,799
+can dig I think it's like either GitHub
+
+579
+00:25:29,799 --> 00:25:31,159
+ethereum research or like GitHub
+
+580
+00:25:31,159 --> 00:25:33,159
+ethereum simple Casper you just like
+
+581
+00:25:33,159 --> 00:25:34,600
+search for the directory called Simple
+
+582
+00:25:34,600 --> 00:25:37,000
+Casper and you can find like contracts
+
+583
+00:25:37,000 --> 00:25:38,480
+written in serpent like who here
+
+584
+00:25:38,480 --> 00:25:39,559
+remember
+
+585
+00:25:39,559 --> 00:25:43,559
+serpent okay who here uses serpent good
+
+586
+00:25:43,559 --> 00:25:45,320
+I mean I mean I think like I think
+
+587
+00:25:45,320 --> 00:25:47,840
+python is uh like is really beautiful
+
+588
+00:25:47,840 --> 00:25:50,240
+but I think if you uh like if you want
+
+589
+00:25:50,240 --> 00:25:51,799
+that then you should code in Viper Viper
+
+590
+00:25:51,799 --> 00:25:53,240
+is actually like great it's actually
+
+591
+00:25:53,240 --> 00:25:55,159
+kept improving quite a bit for the last
+
+592
+00:25:55,159 --> 00:25:58,840
+couple of years so we had basically yeah
+
+593
+00:25:58,840 --> 00:26:02,919
+okay yay glad for Viper um
+
+594
+00:26:02,919 --> 00:26:08,159
+okay and so in 2017 actually we
+
+595
+00:26:08,159 --> 00:26:10,039
+attempted to like basically do this like
+
+596
+00:26:10,039 --> 00:26:12,440
+full like abstraction thing and even
+
+597
+00:26:12,440 --> 00:26:14,360
+write the proof of stake logic directly
+
+598
+00:26:14,360 --> 00:26:16,279
+as a smart contract and so there's this
+
+599
+00:26:16,279 --> 00:26:18,919
+like really fun demo that we launched at
+
+600
+00:26:18,919 --> 00:26:21,360
+I think it was actually like 2320
+

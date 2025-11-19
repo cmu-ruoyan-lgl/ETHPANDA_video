@@ -1,0 +1,600 @@
+1
+00:00:02,600 --> 00:00:10,939
+[Music]
+
+2
+00:00:16,400 --> 00:00:20,160
+great so ethereum in uh 30 minutes so
+
+3
+00:00:20,160 --> 00:00:23,920
+this is a a presentation that I've given
+
+4
+00:00:23,920 --> 00:00:26,240
+at I think basically every single Devcon
+
+5
+00:00:26,240 --> 00:00:28,279
+since launch though I think what's
+
+6
+00:00:28,279 --> 00:00:31,680
+interesting is how as uh ethereum the
+
+7
+00:00:31,680 --> 00:00:34,800
+ecosystem uh changes and as ethereum the
+
+8
+00:00:34,800 --> 00:00:37,640
+protocol changes as the times change uh
+
+9
+00:00:37,640 --> 00:00:39,520
+the contents also end up changing quite
+
+10
+00:00:39,520 --> 00:00:41,640
+a bit right so if you go back to the
+
+11
+00:00:41,640 --> 00:00:44,640
+equivalent of this from 2015 you'll hear
+
+12
+00:00:44,640 --> 00:00:46,680
+a lot about Uncle blocks of course Uncle
+
+13
+00:00:46,680 --> 00:00:48,120
+blocks are a feature of proof of work
+
+14
+00:00:48,120 --> 00:00:49,879
+that we have proof of stake and so we
+
+15
+00:00:49,879 --> 00:00:52,960
+don't have Uncle blocks anymore now
+
+16
+00:00:52,960 --> 00:00:57,399
+ethereum also uh of course uh now has a
+
+17
+00:00:57,399 --> 00:01:01,640
+layer twos and back in
+
+18
+00:01:01,640 --> 00:01:03,760
+this would not contain layer 2s at all
+
+19
+00:01:03,760 --> 00:01:05,720
+and now of course as we know layer 2s
+
+20
+00:01:05,720 --> 00:01:08,600
+are half the story right so ethereum is
+
+21
+00:01:08,600 --> 00:01:12,320
+above all an evolving ecosystem and uh
+
+22
+00:01:12,320 --> 00:01:14,280
+the contents of this are going to keep
+
+23
+00:01:14,280 --> 00:01:17,159
+changing as the technology changes and
+
+24
+00:01:17,159 --> 00:01:20,640
+also as the emphasis of the uh ecosystem
+
+25
+00:01:20,640 --> 00:01:23,439
+changes from building basic
+
+26
+00:01:23,439 --> 00:01:26,720
+infrastructure uh to now also really
+
+27
+00:01:26,720 --> 00:01:28,759
+putting a huge amount of focus on the
+
+28
+00:01:28,759 --> 00:01:32,159
+applications so what is ethereum so
+
+29
+00:01:32,159 --> 00:01:36,479
+first ethereum is the world computer so
+
+30
+00:01:36,479 --> 00:01:38,399
+who here remembers etherium being the
+
+31
+00:01:38,399 --> 00:01:40,680
+world
+
+32
+00:01:42,040 --> 00:01:43,920
+computer this is the place where I'm
+
+33
+00:01:43,920 --> 00:01:45,640
+supposed to like put that Meme the where
+
+34
+00:01:45,640 --> 00:01:47,200
+like there's the guy with the gun in
+
+35
+00:01:47,200 --> 00:01:49,399
+space saying always has been but I don't
+
+36
+00:01:49,399 --> 00:01:51,799
+know I never understood why you're why
+
+37
+00:01:51,799 --> 00:01:54,399
+like like giving someone such an amazing
+
+38
+00:01:54,399 --> 00:01:56,119
+and beautiful Revelation is supposed to
+
+39
+00:01:56,119 --> 00:01:58,200
+come at the same time as uh shooting
+
+40
+00:01:58,200 --> 00:02:01,159
+them in space 20,000 km away from home
+
+41
+00:02:01,159 --> 00:02:03,119
+and so you I'm not going to do that
+
+42
+00:02:03,119 --> 00:02:05,439
+today so ethereum is the world computer
+
+43
+00:02:05,439 --> 00:02:08,280
+it always has been always will be uh so
+
+44
+00:02:08,280 --> 00:02:11,400
+in addition to this ethereum is an
+
+45
+00:02:11,400 --> 00:02:14,720
+incredibly large and diverse onchain
+
+46
+00:02:14,720 --> 00:02:17,440
+economy um and uh
+
+47
+00:02:17,440 --> 00:02:21,840
+fortunately know Josh uh right before uh
+
+48
+00:02:21,840 --> 00:02:24,280
+well one one skipped before me made an
+
+49
+00:02:24,280 --> 00:02:26,519
+incredibly good presentation talking
+
+50
+00:02:26,519 --> 00:02:28,319
+about all of the different aspects of
+
+51
+00:02:28,319 --> 00:02:31,879
+the economy and also so ethereum is an
+
+52
+00:02:31,879 --> 00:02:34,959
+incredibly large and diverse Global
+
+53
+00:02:34,959 --> 00:02:39,159
+community and I and Josh and the uh
+
+54
+00:02:39,159 --> 00:02:41,840
+automated like intro thing before that I
+
+55
+00:02:41,840 --> 00:02:43,879
+think did a a really good job of showing
+
+56
+00:02:43,879 --> 00:02:47,239
+that too so ethereum is many things
+
+57
+00:02:47,239 --> 00:02:51,080
+right I think uh they're like also Pro
+
+58
+00:02:51,080 --> 00:02:53,800
+probably you're supposed to like put up
+
+59
+00:02:53,800 --> 00:02:56,040
+a flashing sign saying e is money as
+
+60
+00:02:56,040 --> 00:02:58,239
+well but you know ethereum is a lot of
+
+61
+00:02:58,239 --> 00:03:01,440
+things right and if ethereum is all of
+
+62
+00:03:01,440 --> 00:03:04,720
+these different things at the same time
+
+63
+00:03:04,720 --> 00:03:07,280
+so how does the world computer work
+
+64
+00:03:07,280 --> 00:03:09,959
+right so the way that I think about this
+
+65
+00:03:09,959 --> 00:03:13,920
+is uh you layer one is the Shust machine
+
+66
+00:03:13,920 --> 00:03:18,519
+and Layer Two is uh the GPU right so the
+
+67
+00:03:18,519 --> 00:03:23,040
+layer one of ethereum that is the core
+
+68
+00:03:23,040 --> 00:03:26,319
+ethereum blockchain this is the anchor
+
+69
+00:03:26,319 --> 00:03:28,599
+that keeps the rest of the ecosystem
+
+70
+00:03:28,599 --> 00:03:31,439
+safe and holds the rest of the ecosystem
+
+71
+00:03:31,439 --> 00:03:34,360
+together layer one is the reason why
+
+72
+00:03:34,360 --> 00:03:37,400
+layer twos are able to trustly talk to
+
+73
+00:03:37,400 --> 00:03:40,680
+each other and at least once everything
+
+74
+00:03:40,680 --> 00:03:42,760
+upgrades to stage two you will be able
+
+75
+00:03:42,760 --> 00:03:45,280
+to take an asset issue it on optimism
+
+76
+00:03:45,280 --> 00:03:47,599
+and then move it and hold it inside of a
+
+77
+00:03:47,599 --> 00:03:49,840
+smart contract on arbitrum and do so
+
+78
+00:03:49,840 --> 00:03:53,319
+with zero counterparty risk layer one is
+
+79
+00:03:53,319 --> 00:03:58,400
+not there to be ultra fast it is not
+
+80
+00:03:58,400 --> 00:04:01,239
+there to do a million transactions per
+
+81
+00:04:01,239 --> 00:04:03,599
+second layer one is first and foremost
+
+82
+00:04:03,599 --> 00:04:06,200
+there to be decentralized to be robust
+
+83
+00:04:06,200 --> 00:04:08,720
+and to be something that is Dependable
+
+84
+00:04:08,720 --> 00:04:13,599
+Layer Two is the GBU so Layer Two is uh
+
+85
+00:04:13,599 --> 00:04:15,920
+all of you uh in the in the room who are
+
+86
+00:04:15,920 --> 00:04:18,079
+part of any single layer two um who here
+
+87
+00:04:18,079 --> 00:04:20,239
+is part of a layer
+
+88
+00:04:20,239 --> 00:04:24,400
+two yay who here has used the layer
+
+89
+00:04:24,400 --> 00:04:27,479
+two who here has used layer
+
+90
+00:04:27,479 --> 00:04:32,440
+one good it's uh we're all users here so
+
+91
+00:04:32,440 --> 00:04:35,199
+actually know there's lots of these
+
+92
+00:04:35,199 --> 00:04:38,440
+different gpus right and ethereum of the
+
+93
+00:04:38,440 --> 00:04:40,360
+world computer is able to hold together
+
+94
+00:04:40,360 --> 00:04:42,880
+because each and every one of these gpus
+
+95
+00:04:42,880 --> 00:04:46,720
+is connected to the trest machine
+
+96
+00:04:46,720 --> 00:04:50,720
+through optimistic uh proof systems zero
+
+97
+00:04:50,720 --> 00:04:56,440
+knowledge proofs snarks Starks Bas jolts
+
+98
+00:04:56,440 --> 00:04:59,360
+plun plunk you know whatever the buzz
+
+99
+00:04:59,360 --> 00:05:03,280
+words are right uh and uh that all of
+
+100
+00:05:03,280 --> 00:05:05,639
+these systems actually ensure that ler
+
+101
+00:05:05,639 --> 00:05:08,800
+one is able to trustly verify what is
+
+102
+00:05:08,800 --> 00:05:11,080
+going on inside of the layer tws and
+
+103
+00:05:11,080 --> 00:05:14,720
+layer twos also are able to trustly uh
+
+104
+00:05:14,720 --> 00:05:17,880
+read what is happening on layer one so
+
+105
+00:05:17,880 --> 00:05:19,960
+there's an important interplay between
+
+106
+00:05:19,960 --> 00:05:22,360
+these two components and together they
+
+107
+00:05:22,360 --> 00:05:24,759
+make up the ethereum that is here today
+
+108
+00:05:24,759 --> 00:05:28,240
+so what is the L1 it's a chain it runs
+
+109
+00:05:28,240 --> 00:05:31,639
+proof of stake it doesn't Afra
+
+110
+00:05:32,000 --> 00:05:36,479
+so it's so what does this me right so
+
+111
+00:05:36,479 --> 00:05:40,479
+ethere one is uh a chain that has uh
+
+112
+00:05:40,479 --> 00:05:44,039
+existed alt together for um more than n
+
+113
+00:05:44,039 --> 00:05:46,360
+years now and it's existed in its
+
+114
+00:05:46,360 --> 00:05:48,759
+current proof of stake form for um a
+
+115
+00:05:48,759 --> 00:05:51,400
+little bit over two years and I think
+
+116
+00:05:51,400 --> 00:05:54,759
+one of the really important things for a
+
+117
+00:05:54,759 --> 00:05:58,120
+Bas layer to have is you want to have
+
+118
+00:05:58,120 --> 00:06:00,720
+clear evidence that that you're building
+
+119
+00:06:00,720 --> 00:06:02,880
+on a base layer that is decentralized
+
+120
+00:06:02,880 --> 00:06:05,520
+that is open that is robust and that is
+
+121
+00:06:05,520 --> 00:06:07,319
+likely to keep those traits going
+
+122
+00:06:07,319 --> 00:06:11,520
+forward into the future right and one
+
+123
+00:06:11,520 --> 00:06:15,759
+one part of that of course is so like
+
+124
+00:06:15,759 --> 00:06:17,639
+something that is slow to change right
+
+125
+00:06:17,639 --> 00:06:19,800
+one part of that is being something that
+
+126
+00:06:19,800 --> 00:06:21,599
+is not suddenly going to wake up on a
+
+127
+00:06:21,599 --> 00:06:23,720
+Tuesday have new management and then
+
+128
+00:06:23,720 --> 00:06:26,520
+suddenly decide that it's just like
+
+129
+00:06:26,520 --> 00:06:28,960
+totally going to like start deleting a
+
+130
+00:06:28,960 --> 00:06:30,880
+whole bunch of applications change its
+
+131
+00:06:30,880 --> 00:06:33,400
+entire model and do other push the fees
+
+132
+00:06:33,400 --> 00:06:35,240
+up by a factor of 10 and do other things
+
+133
+00:06:35,240 --> 00:06:37,720
+without warning another part of
+
+134
+00:06:37,720 --> 00:06:40,319
+decentralization and resilience is
+
+135
+00:06:40,319 --> 00:06:43,360
+actually recovery right so whenever
+
+136
+00:06:43,360 --> 00:06:45,840
+problem actually starts to arise
+
+137
+00:06:45,840 --> 00:06:48,560
+actually be able to recover from it and
+
+138
+00:06:48,560 --> 00:06:51,479
+have some way of actually improving the
+
+139
+00:06:51,479 --> 00:06:54,280
+qualities of the layer one over time so
+
+140
+00:06:54,280 --> 00:06:57,160
+over here um this is uh on the left a
+
+141
+00:06:57,160 --> 00:06:59,960
+chart of Bitcoin proof of work um mining
+
+142
+00:06:59,960 --> 00:07:02,280
+pools and on the chart if uh on the
+
+143
+00:07:02,280 --> 00:07:03,639
+right if they in proof of stake mining
+
+144
+00:07:03,639 --> 00:07:07,080
+pools actually um I'm deliberately being
+
+145
+00:07:07,080 --> 00:07:09,919
+generous here because uh putting Bitcoin
+
+146
+00:07:09,919 --> 00:07:11,479
+proof of work mining pools because
+
+147
+00:07:11,479 --> 00:07:13,720
+before the merge actually ethereum proof
+
+148
+00:07:13,720 --> 00:07:15,720
+of work decentral uh was even more
+
+149
+00:07:15,720 --> 00:07:18,599
+concentrated than this right and so what
+
+150
+00:07:18,599 --> 00:07:20,960
+we see here on the right is you see
+

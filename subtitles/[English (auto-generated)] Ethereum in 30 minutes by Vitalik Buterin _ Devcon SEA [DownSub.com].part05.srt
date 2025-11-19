@@ -1,0 +1,399 @@
+601
+00:26:21,360 --> 00:26:24,720
+Bangkok time on December 31st 2017 and
+
+602
+00:26:24,720 --> 00:26:25,880
+like you know we wanted to get something
+
+603
+00:26:25,880 --> 00:26:27,720
+out before New Year's but then like the
+
+604
+00:26:27,720 --> 00:26:29,000
+demo
+
+605
+00:26:29,000 --> 00:26:30,600
+it ended up like breaking up pretty
+
+606
+00:26:30,600 --> 00:26:33,279
+quickly you know it was early days but
+
+607
+00:26:33,279 --> 00:26:35,039
+since then of course it's not early days
+
+608
+00:26:35,039 --> 00:26:37,720
+anymore and at the start of 2018 a
+
+609
+00:26:37,720 --> 00:26:39,279
+really massive effort started to
+
+610
+00:26:39,279 --> 00:26:40,840
+actually build out the ethereum proof of
+
+611
+00:26:40,840 --> 00:26:43,200
+St system and to build out the ethereum
+
+612
+00:26:43,200 --> 00:26:45,399
+scaling system which has since then
+
+613
+00:26:45,399 --> 00:26:49,240
+turned into the blobs that we have today
+
+614
+00:26:49,240 --> 00:26:51,840
+2022 the merge switching from proof of
+
+615
+00:26:51,840 --> 00:26:53,559
+work to proof of steak
+
+616
+00:26:53,559 --> 00:26:57,120
+2024 The Surge part one right so if you
+
+617
+00:26:57,120 --> 00:26:59,000
+look into the road map diagram and you
+
+618
+00:26:59,000 --> 00:27:00,919
+look into the search section you see
+
+619
+00:27:00,919 --> 00:27:02,880
+that there's two Milestones there's one
+
+620
+00:27:02,880 --> 00:27:04,480
+that I call Basic rollup scaling and
+
+621
+00:27:04,480 --> 00:27:05,840
+there's one that I call full rollup
+
+622
+00:27:05,840 --> 00:27:07,720
+scaling and basic rollup scaling
+
+623
+00:27:07,720 --> 00:27:09,760
+basically says you need major ler 2os to
+
+624
+00:27:09,760 --> 00:27:11,880
+hit stage one and you need blobs to
+
+625
+00:27:11,880 --> 00:27:15,799
+exist and so 2024 we actually hit that
+
+626
+00:27:15,799 --> 00:27:18,559
+the next step is having actual like
+
+627
+00:27:18,559 --> 00:27:21,320
+fully running data availability sampling
+
+628
+00:27:21,320 --> 00:27:25,360
+and major ear 2 is hitting stage two so
+
+629
+00:27:25,360 --> 00:27:26,760
+I think that will happen and I think
+
+630
+00:27:26,760 --> 00:27:29,000
+that will happen sooner than people
+
+631
+00:27:29,000 --> 00:27:33,520
+and it's up to the ler 2 teams to build
+
+632
+00:27:33,520 --> 00:27:36,840
+this future of ethereum there are still
+
+633
+00:27:36,840 --> 00:27:39,159
+a lot of problems that are left to solve
+
+634
+00:27:39,159 --> 00:27:41,640
+so we want upgrades to decentralization
+
+635
+00:27:41,640 --> 00:27:44,159
+who here wantsum to be
+
+636
+00:27:44,159 --> 00:27:46,159
+decentralized who here wants ethereum to
+
+637
+00:27:46,159 --> 00:27:48,200
+be
+
+638
+00:27:48,200 --> 00:27:51,320
+centralized okay okay so one person
+
+639
+00:27:51,320 --> 00:27:53,559
+wants ethereum to be
+
+640
+00:27:53,559 --> 00:27:57,399
+centralized okay um censorship
+
+641
+00:27:57,399 --> 00:27:59,880
+resistance wants to censor
+
+642
+00:27:59,880 --> 00:28:03,679
+ethereum okay a couple more hands um
+
+643
+00:28:03,679 --> 00:28:05,519
+Quantum resistance who here wants
+
+644
+00:28:05,519 --> 00:28:07,159
+ethereum to break the first time a Quant
+
+645
+00:28:07,159 --> 00:28:08,600
+of computer comes
+
+646
+00:28:08,600 --> 00:28:11,440
+out okay one hand that's good you know
+
+647
+00:28:11,440 --> 00:28:13,679
+maybe it's like you know you know
+
+648
+00:28:13,679 --> 00:28:14,960
+sometimes like you need collapse in
+
+649
+00:28:14,960 --> 00:28:18,600
+order for Renewal to happen right so
+
+650
+00:28:18,600 --> 00:28:20,360
+further upgrades to make sure that
+
+651
+00:28:20,360 --> 00:28:22,320
+decentralization sensorship resistance
+
+652
+00:28:22,320 --> 00:28:23,840
+and Quantum resistance continue
+
+653
+00:28:23,840 --> 00:28:26,080
+happening Progressive upgrades to
+
+654
+00:28:26,080 --> 00:28:29,519
+efficiency and scale um so so Layer Two
+
+655
+00:28:29,519 --> 00:28:31,399
+I think is going to scale extremely
+
+656
+00:28:31,399 --> 00:28:33,000
+quickly and its safety is going to
+
+657
+00:28:33,000 --> 00:28:35,519
+improve quickly over the next few years
+
+658
+00:28:35,519 --> 00:28:38,799
+and also I expect Progressive upgrades
+
+659
+00:28:38,799 --> 00:28:40,679
+cautious upgrades but still Progressive
+
+660
+00:28:40,679 --> 00:28:42,880
+and definitely ongoing upgrades to layer
+
+661
+00:28:42,880 --> 00:28:44,880
+one capacity in different forms as well
+
+662
+00:28:44,880 --> 00:28:47,960
+over the over the next years and I think
+
+663
+00:28:47,960 --> 00:28:49,640
+one of the big reasons why we need to do
+
+664
+00:28:49,640 --> 00:28:52,279
+this one is to support the activity that
+
+665
+00:28:52,279 --> 00:28:54,480
+continues to happen on layer one itself
+
+666
+00:28:54,480 --> 00:28:57,360
+and two because ultimately if something
+
+667
+00:28:57,360 --> 00:28:59,600
+breaks on a layer two layer one still
+
+668
+00:28:59,600 --> 00:29:01,840
+needs to be there to be as a back stop
+
+669
+00:29:01,840 --> 00:29:03,840
+and so the maximum theoretical safe
+
+670
+00:29:03,840 --> 00:29:07,000
+capacity of l2s is proportional to to
+
+671
+00:29:07,000 --> 00:29:09,480
+the capacity of L1 we're going to have
+
+672
+00:29:09,480 --> 00:29:11,440
+upgrades to data availability sampling
+
+673
+00:29:11,440 --> 00:29:13,320
+to increase the number of blobs that
+
+674
+00:29:13,320 --> 00:29:15,600
+ethereum can support as of about a week
+
+675
+00:29:15,600 --> 00:29:18,679
+ago ethereum is actually hit price
+
+676
+00:29:18,679 --> 00:29:20,799
+discovery mode meaning the uh in terms
+
+677
+00:29:20,799 --> 00:29:22,519
+of blobs meaning that the number of
+
+678
+00:29:22,519 --> 00:29:25,080
+blobs that is actually being us being
+
+679
+00:29:25,080 --> 00:29:27,519
+used on ethereum exactly equals the
+
+680
+00:29:27,519 --> 00:29:30,279
+protocol that long-term Target now we
+
+681
+00:29:30,279 --> 00:29:32,320
+need to scale this number upgrades are
+
+682
+00:29:32,320 --> 00:29:34,440
+happening to actually do this so
+
+683
+00:29:34,440 --> 00:29:36,399
+upgrades to data availability sampling
+
+684
+00:29:36,399 --> 00:29:38,919
+we've now we have also scaled enough
+
+685
+00:29:38,919 --> 00:29:41,360
+that a wide variety of applications are
+
+686
+00:29:41,360 --> 00:29:45,480
+possible ens consumer payments social
+
+687
+00:29:45,480 --> 00:29:47,240
+one category that I think is going to be
+
+688
+00:29:47,240 --> 00:29:49,279
+extremely important over the next decade
+
+689
+00:29:49,279 --> 00:29:51,399
+is mixed financial and non-financial
+
+690
+00:29:51,399 --> 00:29:53,600
+applications applications that make use
+
+691
+00:29:53,600 --> 00:29:55,480
+of the power of Finance But ultimately
+
+692
+00:29:55,480 --> 00:29:58,600
+to serve ends that go be that go beyond
+
+693
+00:29:58,600 --> 00:30:01,159
+financial goals and I think there's lots
+
+694
+00:30:01,159 --> 00:30:04,559
+of very powerful applications here and I
+
+695
+00:30:04,559 --> 00:30:07,240
+think it's uh we've spent a long time
+
+696
+00:30:07,240 --> 00:30:09,480
+making the technology better and we will
+
+697
+00:30:09,480 --> 00:30:11,600
+continue doing this but it is at the
+
+698
+00:30:11,600 --> 00:30:14,919
+level where now is the time to build
+
+699
+00:30:14,919 --> 00:30:16,230
+thank you
+
+700
+00:30:16,230 --> 00:30:22,150
+[Applause]
