@@ -2,4 +2,600 @@
 00:07:20,960 --> 00:07:22,440
 actually a pretty diverse set
 
+152
+00:07:22,440 --> 00:07:25,319
+of staking pools, and if you zoom into
+
+153
+00:07:25,319 --> 00:07:29,120
+either of the top items on the chart
+
+154
+00:07:29,120 --> 00:07:31,479
+on the top left, so Lido has
+
+155
+00:07:31,479 --> 00:07:33,160
+somewhere a little under
+
+156
+00:07:33,160 --> 00:07:36,639
+30%, but Lido isn't
+
+157
+00:07:36,639 --> 00:07:39,160
+a single actor; it's a DAO.
+
+158
+00:07:39,160 --> 00:07:41,720
+Technically the deposits are split
+
+159
+00:07:41,720 --> 00:07:44,639
+between about 40 node operators.
+
+160
+00:07:44,639 --> 00:07:46,159
+There's a more
+
+161
+00:07:46,159 --> 00:07:47,560
+complicated structure that keeps
+
+162
+00:07:47,560 --> 00:07:51,000
+updating, so I think it's
+
+163
+00:07:51,000 --> 00:07:52,759
+reasonable to think of it as somewhere
+
+164
+00:07:52,759 --> 00:07:54,599
+between one actor and 40
+
+165
+00:07:54,599 --> 00:07:57,479
+actors. Exactly where it falls is a
+
+166
+00:07:57,479 --> 00:07:59,000
+question for the social science people to
+
+167
+00:07:59,000 --> 00:08:00,400
+figure out: how do you actually
+
+168
+00:08:00,400 --> 00:08:03,000
+quantify decentralization?
+
+169
+00:08:03,000 --> 00:08:04,400
+There are even grant
+
+170
+00:08:04,400 --> 00:08:07,680
+opportunities for this work, so that's
+
+171
+00:08:07,680 --> 00:08:09,400
+so that's number one.
+
+172
+00:08:09,400 --> 00:08:12,759
+Number two is "unidentified."
+
+173
+00:08:12,759 --> 00:08:17,199
+Unidentified is not one actor, just like
+
+174
+00:08:17,199 --> 00:08:19,400
+there's no "any" key on your keyboard.
+
+175
+00:08:19,400 --> 00:08:23,000
+It's not actually a single key, so unidentified
+
+176
+00:08:23,000 --> 00:08:24,199
+means we don't know what it represents.
+
+177
+00:08:24,199 --> 00:08:25,960
+It's probably lots of solo stakers,
+
+178
+00:08:25,960 --> 00:08:28,919
+small-business stakers,
+
+179
+00:08:28,919 --> 00:08:31,639
+and various tiny staking pools,
+
+180
+00:08:31,639 --> 00:08:35,039
+so it's not one actor. Ethereum L1 today
+
+181
+00:08:35,039 --> 00:08:37,479
+actually has a surprisingly high degree
+
+182
+00:08:37,479 --> 00:08:39,399
+of decentralization in its Proof of
+
+183
+00:08:39,399 --> 00:08:42,039
+Stake design, and that property
+
+184
+00:08:42,039 --> 00:08:44,760
+has only improved over
+
+185
+00:08:44,760 --> 00:08:48,080
+time. Here's one property that
+
+186
+00:08:48,080 --> 00:08:51,279
+has gotten much better.
+
+187
+00:08:51,279 --> 00:08:54,880
+About five years ago Ethereum was
+
+188
+00:08:54,880 --> 00:08:58,480
+basically just Geth, and when you
+
+189
+00:08:58,480 --> 00:09:00,640
+have an ecosystem dominated by
+
+190
+00:09:00,640 --> 00:09:03,640
+one client, that becomes a central
+
+191
+00:09:03,640 --> 00:09:06,920
+point of failure. Who here
+
+192
+00:09:06,920 --> 00:09:09,959
+remembers the 2016 DoS
+
+193
+00:09:09,959 --> 00:09:11,600
+attacks?
+
+194
+00:09:11,600 --> 00:09:16,519
+Great. Remember waking up at 5:17
+
+195
+00:09:16,519 --> 00:09:19,800
+a.m. to a military-style wake-up call,
+
+196
+00:09:19,800 --> 00:09:21,720
+being told, "Hey, you have to go down to
+
+197
+00:09:21,720 --> 00:09:23,000
+the space we've suddenly turned
+
+198
+00:09:23,000 --> 00:09:25,480
+into a war room. Go down, and
+
+199
+00:09:25,480 --> 00:09:27,640
+then someone discovers a bug in the
+
+200
+00:09:27,640 --> 00:09:30,000
+clients, and now the entire chain is stopped.
+
+201
+00:09:30,000 --> 00:09:32,279
+We fix it, and two or three days
+
+202
+00:09:32,279 --> 00:09:34,440
+later some person somewhere finds
+
+203
+00:09:34,440 --> 00:09:36,279
+another bug, and three days later
+
+204
+00:09:36,279 --> 00:09:37,800
+another one, and that keeps going on
+
+205
+00:09:37,800 --> 00:09:39,959
+for a whole month until eventually we
+
+206
+00:09:39,959 --> 00:09:42,959
+have to hard fork. During that period
+
+207
+00:09:42,959 --> 00:09:44,560
+the fact that Ethereum had
+
+208
+00:09:44,560 --> 00:09:46,399
+two different clients at the time
+
+209
+00:09:46,399 --> 00:09:48,839
+Geth and Parity basically saved
+
+210
+00:09:48,839 --> 00:09:50,600
+the chain. There were times when
+
+211
+00:09:50,600 --> 00:09:52,000
+a bug would
+
+212
+00:09:52,000 --> 00:09:54,160
+hit Geth but not Parity; there were times
+
+213
+00:09:54,160 --> 00:09:55,519
+when a bug would hit
+
+214
+00:09:55,519 --> 00:09:59,920
+Parity but not Geth, so Ethereum
+
+215
+00:09:59,920 --> 00:10:01,600
+gained a lot from having
+
+216
+00:10:01,600 --> 00:10:04,200
+multiple software implementations, and
+
+217
+00:10:04,200 --> 00:10:07,800
+as of 2024 this is
+
+218
+00:10:07,800 --> 00:10:09,920
+probably the best it has ever been
+
+219
+00:10:09,920 --> 00:10:13,760
+in Ethereum's history.
+
+220
+00:10:17,800 --> 00:10:20,560
+So on the left you have consensus
+
+221
+00:10:20,560 --> 00:10:22,240
+clients. Consensus clients handle the
+
+222
+00:10:22,240 --> 00:10:24,200
+Proof of Stake part of Ethereum; on the
+
+223
+00:10:24,200 --> 00:10:25,560
+right you have execution clients.
+
+224
+00:10:25,560 --> 00:10:27,519
+Execution clients handle the EVM part of
+
+225
+00:10:27,519 --> 00:10:30,640
+Ethereum. As we can see, the single
+
+226
+00:10:30,640 --> 00:10:33,240
+client with the highest market share is
+
+227
+00:10:33,240 --> 00:10:36,160
+Geth at somewhere around 50%.
+
+228
+00:10:36,160 --> 00:10:38,720
+This chart uses a source
+
+229
+00:10:38,720 --> 00:10:40,440
+that basically assumes most
+
+230
+00:10:40,440 --> 00:10:42,360
+unidentified clients are Geth, so it
+
+231
+00:10:42,360 --> 00:10:44,440
+could easily be below 50%. Let's
+
+232
+00:10:44,440 --> 00:10:48,040
+say it's about 50%. So what happens if
+
+233
+00:10:48,040 --> 00:10:50,560
+there's a bug in any Ethereum client
+
+234
+00:10:50,560 --> 00:10:52,920
+literally today, right now?
+
+235
+00:10:52,920 --> 00:10:55,399
+Anyone here have a
+
+236
+00:10:55,399 --> 00:10:57,880
+bug? Josh, can you check: is
+
+237
+00:10:57,880 --> 00:10:59,839
+Ethereum still running?
+
+238
+00:10:59,839 --> 00:11:02,880
+I'm going to guess it is. I'd bet
+
+239
+00:11:02,880 --> 00:11:08,120
+99.99% plus on Polymarket.
+
+240
+00:11:08,120 --> 00:11:11,519
+So case one: what happens if the
+
+241
+00:11:11,519 --> 00:11:13,600
+client is Geth? That's the worst case.
+
+242
+00:11:13,600 --> 00:11:15,839
+If the client is Geth and there's a bug, what
+
+243
+00:11:15,839 --> 00:11:18,320
+realistically happens is the chain
+
+244
+00:11:18,320 --> 00:11:20,800
+splits in half: one half follows Geth, one
+
+245
+00:11:20,800 --> 00:11:23,360
+half follows the other clients, but on
+
+246
+00:11:23,360 --> 00:11:25,839
+both sides the chain stops finalizing.
+
+247
+00:11:25,839 --> 00:11:28,000
+To finalize you need two-thirds; if you have less
+
+248
+00:11:28,000 --> 00:11:30,040
+than two-thirds, blocks keep
+
+249
+00:11:30,040 --> 00:11:31,959
+getting created but the chain stops
+
+250
+00:11:31,959 --> 00:11:35,639
+finalizing. So if you're a user, an
+
+251
+00:11:35,639 --> 00:11:38,360
+application, or a business and you're
+
+252
+00:11:38,360 --> 00:11:40,120
+waiting for confirmation on a
+
+253
+00:11:40,120 --> 00:11:42,160
+transaction, you're probably
+
+254
+00:11:42,160 --> 00:11:43,360
+waiting for finality.
+
+255
+00:11:43,360 --> 00:11:45,760
+So if the chain splits in
+
+256
+00:11:45,760 --> 00:11:48,279
+half because of a client bug,
+
+257
+00:11:48,279 --> 00:11:50,600
+neither chain is going to
+
+258
+00:11:50,600 --> 00:11:52,959
+finalize, so you'll detect
+
+259
+00:11:52,959 --> 00:11:54,920
+that and go on standby.
+
+260
+00:11:54,920 --> 00:11:56,920
+What realistically happens is
+
+261
+00:11:56,920 --> 00:11:58,959
+core devs get on high alert, figure out
+
+262
+00:11:58,959 --> 00:12:02,000
+which client has the bug, and
+
+263
+00:12:02,000 --> 00:12:04,440
+the bug gets fixed. The one time this
+
+264
+00:12:04,440 --> 00:12:06,839
+happened in Ethereum—fun
+
+265
+00:12:06,839 --> 00:12:08,519
+fact, I actually sent the transaction that
+
+266
+00:12:08,519 --> 00:12:11,279
+did it myself back in 2016—
+
+267
+00:12:11,279 --> 00:12:13,800
+everything was fixed within 12
+
+268
+00:12:13,800 --> 00:12:17,399
+hours. That's the worst case.
+
+269
+00:12:17,399 --> 00:12:19,639
+In every other case, basically, if Prysm and
+
+270
+00:12:19,639 --> 00:12:21,680
+Lighthouse have a bug, all that happens
+
+271
+00:12:21,680 --> 00:12:23,680
+is that Ethereum stops finalizing for
+
+272
+00:12:23,680 --> 00:12:26,519
+about a day at most, and then
+
+273
+00:12:26,519 --> 00:12:28,399
+it goes back to normal. Any other
+
+274
+00:12:28,399 --> 00:12:30,600
+client, you're not going to notice
+
+275
+00:12:30,600 --> 00:12:34,000
+anything at all. So in terms of practical
+
+276
+00:12:34,000 --> 00:12:36,199
+decentralization, having multiple clients
+
+277
+00:12:36,199 --> 00:12:38,639
+is extremely helpful, and having
+
+278
+00:12:38,639 --> 00:12:40,680
+multiple clients is extremely helpful
+
+279
+00:12:40,680 --> 00:12:43,240
+because it diversifies the power and
+
+280
+00:12:43,240 --> 00:12:46,480
+control over the Ethereum ecosystem,
+
+281
+00:12:46,480 --> 00:12:48,440
+especially in any kind of contentious
+
+282
+00:12:48,440 --> 00:12:52,680
+situation. If some kind of DAO Fork
+
+283
+00:12:52,680 --> 00:12:56,600
+type incident happened again and one
+
+284
+00:12:56,600 --> 00:12:58,680
+development team made a
+
+285
+00:12:58,680 --> 00:13:02,320
+choice that was unpopular, even if that
+
+286
+00:13:02,320 --> 00:13:05,320
+team insisted on pushing it through,
+
+287
+00:13:05,320 --> 00:13:07,680
+users could easily
+
+288
+00:13:07,680 --> 00:13:09,480
+switch to other clients and
+
+289
+00:13:09,480 --> 00:13:10,959
+completely route around them.
+
+290
+00:13:10,959 --> 00:13:13,639
+That's nowhere near
+
+291
+00:13:13,639 --> 00:13:15,240
+practical in a single-client ecosystem.
+
+292
+00:13:15,240 --> 00:13:17,800
+Having a diverse multi-client ecosystem
+
+293
+00:13:17,800 --> 00:13:19,800
+is very difficult to achieve;
+
+294
+00:13:19,800 --> 00:13:22,000
+aside from Ethereum, no other chain
+
+295
+00:13:22,000 --> 00:13:25,199
+has achieved anything
+
+296
+00:13:25,199 --> 00:13:26,839
+close to this. Even outside of
+
+297
+00:13:26,839 --> 00:13:29,600
+Ethereum—take web browsers
+
+298
+00:13:29,600 --> 00:13:31,600
+which are supposed to be an open standard—
+
+299
+00:13:31,600 --> 00:13:34,079
+in reality about 80% of
+
+300
+00:13:34,079 --> 00:13:36,079
+the ecosystem runs on some fork of WebKit.
+
 
